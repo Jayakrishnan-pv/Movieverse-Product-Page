@@ -1,0 +1,26 @@
+[
+  {
+    "image": "./assets/single.png",
+    "title": "Silver",
+    "price": "$14.99",
+    "user": "single User",
+    "content": "480p Content",
+    "days": "28 Days"
+  },
+  {
+    "image": "./assets/triple.png",
+    "title": "Platinum",
+    "price": "$34.99",
+    "user": "upto 4 User",
+    "content": "4K Content",
+    "days": "28 Days"
+  },
+  {
+    "image": "./assets/double.png",
+    "title": "Gold",
+    "price": "$24.99",
+    "user": "upto 2 User",
+    "content": "1080p Content",
+    "days": "28 Days"
+  }
+]
